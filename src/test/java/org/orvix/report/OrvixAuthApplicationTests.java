@@ -1,10 +1,10 @@
-package org.orvix.auth;
+package org.orvix.report;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class OrvixAuthApplicationTests {
+class OrvixReportApplicationTests {
 
     @Test
     void contextLoads() {
