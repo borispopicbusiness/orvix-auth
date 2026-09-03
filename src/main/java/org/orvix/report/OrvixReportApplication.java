@@ -1,13 +1,13 @@
-package org.orvix.auth;
+package org.orvix.report;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class OrvixAuthApplication {
+public class OrvixReportApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(OrvixAuthApplication.class, args);
+        SpringApplication.run(OrvixReportApplication.class, args);
     }
 
 }
